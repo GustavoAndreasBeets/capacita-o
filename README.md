@@ -33,7 +33,7 @@ Sinta-se à vontade para explorar, sugerir melhorias, apontar bugs ou só deixar
 ## 💬 Vamos conversar?
 
 Se quiser trocar uma ideia sobre programação, tecnologia ou mesmo sobre qual o melhor sabor de pizza (é portuguesa 🍕), me encontra aqui:  
-📫 **miguel.godoy@[seuemail].com**  
+📫 **gustavosantos@estudante.ufscar.br**  
 📷 [Instagram](https://instagram.com/) | 💼 [LinkedIn](https://linkedin.com/) | 💻 [Portfólio](https://github.com/seuusuario)
 
 ---
